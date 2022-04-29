@@ -9,8 +9,7 @@ programa {
 
 		horas=(segundos/3600)
 		minutos=((segundos%3600)/60)
-		segundoso=((segundos%3600)%60)
-		
+		segundoso=((segundos%3600)%60)		
 		
 		escreva("Resultado: o evento dura " + horas + " horas " +minutos + " minutos e "+segundoso+" segundos")
 		

@@ -12,8 +12,7 @@ programa {
 		leia(C)
 
 			R=(A + B )*(A+B)
-			S=(B + C )*(A+B)
-			
+			S=(B + C )*(A+B)			
 			
 			D=(R + S)/2
 		

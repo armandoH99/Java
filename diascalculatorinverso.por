@@ -11,8 +11,7 @@ programa {
 
 		anos=(dias/360)
 		meses=((dias%360)/30)
-		diasa=((dias%360)%30)
-		
+		diasa=((dias%360)%30)		
 		
 		escreva("Resultado: Você tem " + anos + " anos e " + meses + " meses e "+diasa+" dias")
 		
