@@ -9,10 +9,10 @@ programa {
 		escreva("Qual é sua idade em anos?\n")
 		leia(anos)
 
-		escreva("\nVocê tem " + anos + " e quantos meses numero somente: ex: 4	\n ")
+		escreva("\nVocê tem " + anos + " e quantos meses número somente: ex: 4	\n ")
 		leia(meses)
 
-		escreva("\nVocê tem " + anos + " anos e " + meses + " meses e quantos dias? numero somente. ex: 15 \n")
+		escreva("\n Você tem " + anos + " anos e " + meses + " meses e quantos dias? numero somente. ex: 15 \n")
 		leia(dias)
 
 		
